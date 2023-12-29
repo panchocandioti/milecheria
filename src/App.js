@@ -1,23 +1,23 @@
-import logo from './logo.svg';
+import MiLecheria from './multimedia/Logo MiLecheria.jpg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <img src={MiLecheria} className="App-logo" alt="logo" />
       </header>
+      <body>
+        <div className='seccion'>
+          OLE!5.5
+        </div>
+        <div className='seccion'>
+          MONITOR LECHERO
+        </div>
+        <div className='seccion'>
+          CRECIMIENTO DEL RODEO LECHERO
+        </div>
+      </body>
     </div>
   );
 }
