@@ -9,6 +9,9 @@ function App() {
       </header>
       <body>
         <div className='seccion'>
+          REGISTRARSE
+        </div>
+        <div className='seccion'>
           OLE!5.5
         </div>
         <div className='seccion'>
