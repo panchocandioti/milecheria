@@ -40,7 +40,9 @@ body {
   align-self: center;
   max-width: 600px;
   margin: auto;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .diapo {
