@@ -35,10 +35,10 @@ function Ole() {
                     </div>
                 </div>
                 <div className="videos">
-                    <iframe className='video' width="336" height="189" src="https://www.youtube.com/embed/f5rHee5utIo?si=UsHZml1LhXyrFCfJ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-                    <iframe className='video' width="336" height="189" src="https://www.youtube.com/embed/rusvUdw_VX4?si=5_OJhdGUq4qS33EH" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-                    <iframe className='video' width="336" height="189" src="https://www.youtube.com/embed/b0vxFNA1tEQ?si=lKWHBF2hiX_BCFEC" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-                    <iframe className='video' width="336" height="189" src="https://www.youtube.com/embed/M7IsNSmlaCs?si=0CwdYoJ6Btuvl_Mw" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                    <iframe className='video' width="336" height="189" src="https://www.youtube.com/embed/f5rHee5utIo?si=UsHZml1LhXyrFCfJ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                    <iframe className='video' width="336" height="189" src="https://www.youtube.com/embed/rusvUdw_VX4?si=5_OJhdGUq4qS33EH" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                    <iframe className='video' width="336" height="189" src="https://www.youtube.com/embed/b0vxFNA1tEQ?si=lKWHBF2hiX_BCFEC" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                    <iframe className='video' width="336" height="189" src="https://www.youtube.com/embed/M7IsNSmlaCs?si=0CwdYoJ6Btuvl_Mw" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
                 </div>
                 <br></br>
                 <a href='https://forms.gle/rZMNWPBJ9BEve6cL9' target="_blank" rel="noopener noreferrer">Ir al formulario de descarga</a>

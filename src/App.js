@@ -1,6 +1,6 @@
 import React from 'react';
 import Hola from './componentes/Hola';
-import MiLecheria from './multimedia/Logo MiLecheria.jpg';
+import ImagotipoBLANCO from './multimedia/Imagotipo BLANCO.png';
 import './App.css';
 import Patrocinadores from './componentes/Patrocinadores';
 import Ole from './componentes/Ole';
@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={MiLecheria} className="App-logo" alt="logo" />
+        <img src={ImagotipoBLANCO} className="App-logo" alt="logo" />
       </header>
       <div>
         <Hola />
